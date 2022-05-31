@@ -5,4 +5,4 @@
 # Advantages of Component and Styled Component
 
 1. Component is a piece of code to reuse.
-2. Styled Componet is also a reusable styled code.
+2. Styled Componet is a piece of code to reusable styles.
